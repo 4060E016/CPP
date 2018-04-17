@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int i,a[10];
+	int i,a[11];
 
 	for(i=0;i<10;i++)
 		a[i]=i;
